@@ -1,2 +1,3 @@
-# simple_shell
-C - Simple Shell
+# C - Simple Shell
+
+## A simple shell program
